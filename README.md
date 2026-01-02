@@ -11,7 +11,7 @@ Solution (short-term):
 
 Solution (long-term):
 
-😤 Tired of discriminatory tax treatment of BTC? You don't have to do this gains tracking nonsense with other international currencies. [https://www.satoshiaction.io/|Satoshi Action] makes it easy to contact your legislators to lobby for pro-BTC legislation. Consider donating 10% of your tax prep costs to them. Let's put an END to this gains-tracking nonsense!
+😤 Tired of discriminatory tax treatment of BTC? You don't have to do this gains tracking nonsense with other international currencies. [https://www.satoshiaction.io/](Satoshi Action) makes it easy to contact your legislators to lobby for pro-BTC legislation. Consider donating 10% of your tax prep costs to them. Let's put an END to this gains-tracking nonsense!
 
 This python script will help you convert your exported transactions from Zeus (CSV) into the format Koinly needs. Python 3 is required to run this. It will run on Windows, Linux, and OS X. 
 
