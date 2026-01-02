@@ -13,7 +13,7 @@ Solution (short-term):
 
 Solution (long-term):
 
-😤 Tired of discriminatory tax treatment of BTC? You don't have to do this gains tracking nonsense with other international currencies. [https://www.satoshiaction.io/](Satoshi Action) makes it easy to contact your legislators to lobby for pro-BTC legislation. Consider donating 10% of your tax prep costs to them. Let's put an END to this gains-tracking nonsense!
+😤 Tired of discriminatory tax treatment of BTC? You don't have to do this gains tracking nonsense with other international currencies. [Satoshi Action](https://www.satoshiaction.io/) makes it easy to contact your legislators to lobby for pro-BTC legislation. Consider donating 10% of your tax prep costs to them. Let's put an END to this gains-tracking nonsense!
 
 This python script will help you convert your exported transactions from Zeus (CSV) into the format Koinly needs. Python 3 is required to run this. It will run on Windows, Linux, and OS X. 
 
@@ -27,6 +27,7 @@ This python script will help you convert your exported transactions from Zeus (C
 
 
 <h3>Windows</h3>
+
 EXE file (easiest)
 - Download [electrum_to_koinly.exe](electrum_to_koinly.exe)
 
@@ -49,6 +50,7 @@ Run as Python:
 To import your Electrum wallet data to Koinly with Bitcoin lightning support, this script will work!
 
 # Donation
+![btcbalance badge](https://img.shields.io/badge/dynamic/json?url=https://explorer.viawallet.com/res/btc/addresses/bc1qunr36gpgkhlpezry88qjwl7p5jzljp23thety3&query=$.data.balance&suffix=BTC&logo=bitcoin&label=Donated)
 
 Did this software save you an hour or more of your time? Consider a BTC donation Thank you :).
 
