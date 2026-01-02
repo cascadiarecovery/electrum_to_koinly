@@ -6,6 +6,8 @@ Problem:
 
 Solution (short-term):
 - This script takes your original CSV export and makes a new one without the lightning channel opens/closes. It marks lightning transactions as on-chain transactions so they are included as normal.
+- 100% open source, lightweight and fast, look at the code yourself it's very small!
+- 100% local only & private, your data is never sent anywhere
 
 🚨 Note: The IRS has not issued guidance (as of Jan 1, 2026) as to how lightning channels are taxes for the purposes of gains/losses. This script is assuming that channel opens/closes are equivalent to transfers between your own wallets and that LN transactions are equivalent to normal on-chain sends/receives. Please consult a tax professional for advice.
 
