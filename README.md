@@ -11,7 +11,7 @@ Solution (short-term):
 - 100% open source, lightweight and fast, look at the code yourself it's very small!
 - 100% local only & private, your data is never sent anywhere
 
-🚨 Note: The IRS has not issued guidance (as of Jan 1, 2026) as to how lightning channels are taxes for the purposes of gains/losses. This script is assuming that channel opens/closes are equivalent to transfers between your own wallets and that LN transactions are equivalent to normal on-chain sends/receives. Please consult a tax professional for advice.
+🚨 Note: The IRS has not issued guidance (as of Jan 1, 2026) as to how lightning channels are taxed for the purposes of gains/losses. This script is assuming that channel opens/closes are equivalent to transfers between your own wallets and that LN transactions are equivalent to normal on-chain sends/receives. Please consult a tax professional for advice.
 
 Solution (long-term):
 
