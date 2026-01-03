@@ -5,7 +5,9 @@ Problem:
 - If you use auto-sync/import, Koinly only sees on-chain transactions
 
 Solution (short-term):
-- This script takes your original CSV export and makes a new one without the lightning channel opens/closes. It marks lightning transactions as on-chain transactions so they are included as normal.
+- This script takes your original CSV export from Electrum and makes a new one without the lightning channel opens/closes. It marks lightning transactions as on-chain transactions so they are included as normal.
+- Lighting channel open/close transactions are set to zero BTC amount except network fees which remain in-tact.
+- This script runs on Windows, MacOS, and Linux
 - 100% open source, lightweight and fast, look at the code yourself it's very small!
 - 100% local only & private, your data is never sent anywhere
 
@@ -15,7 +17,6 @@ Solution (long-term):
 
 😤 Tired of discriminatory tax treatment of BTC? You don't have to do this gains tracking nonsense with other international currencies. [Satoshi Action](https://www.satoshiaction.io/) makes it easy to contact your legislators to lobby for pro-BTC legislation. Consider donating 10% of your tax prep costs to them. Let's put an END to this gains-tracking nonsense!
 
-This python script will help you convert your exported transactions from Zeus (CSV) into the format Koinly needs. Python 3 is required to run this. It will run on Windows, Linux, and OS X. 
 
 # How to use:
 1. Delete any existing electrum imports in Koinly
